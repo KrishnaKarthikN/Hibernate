@@ -12,6 +12,5 @@
         <property name="show_sql">true</property>
         <property name="format_sql">true</property>
         
-        <mapping class="com.xworkz.college.dto.CollegeDTO"/>
     </session-factory>
 </hibernate-configuration>
